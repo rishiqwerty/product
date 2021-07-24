@@ -1,0 +1,92 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"iphone 12",
+            "descrp":"A14 Bionic Color:Purple",
+            "price":77990,
+            "color":"33505a",
+            "image":"https://rukminim1.flixcart.com/image/416/416/ko0d6kw0/mobile/6/h/y/iphone-12-mjnm3hn-a-apple-original-imag2k2v6ehvnzfd.jpeg"
+        },
+
+        {
+            "id":2,
+            "name":"iphone 11",
+            "descrp":"A13 Bionic Color:Green",
+            "price":48990,
+            "color":"00ac51",
+            "image":"https://rukminim1.flixcart.com/image/416/416/kgiaykw0/mobile/4/b/f/apple-iphone-11-mhdn3hn-a-original-imafwqepcad5ttte.jpeg"
+        },
+        {
+            "id":3,
+            "name":"Pixel 5",
+            "descrp":"Snapdragon 765G Color:Black",
+            "price":54990,
+            "color":"e0bfae",
+            "image":"https://rukminim1.flixcart.com/image/416/416/kflftzk0/mobile/h/q/u/google-pixel-4a-ga02099-in-original-imafwyzmnfxzmv5q.jpeg"
+        },
+
+        {
+            "id":4,
+            "name":"Samsung S21 Ultra",
+            "descrp":"Exynos 2100 Color:Matte Black",
+            "price":105990,
+            "color":"544ee4",
+            "image":"https://rukminim1.flixcart.com/image/416/416/kjvrdzk0/mobile/t/x/3/samsung-galaxy-s21-ultra-sm-g998bzkginu-original-imafzck6uhtqufby.jpeg"
+        },
+
+        {
+            "id":5,
+            "name":"iphone XR",
+            "descrp":"A12 Bionic Color:RED",
+            "price":35990,
+            "color":"e3e4e9",
+            "image":"https://rukminim1.flixcart.com/image/416/416/jnj7iq80/mobile/t/r/p/apple-iphone-xr-mrym2hn-a-original-imafa6zkgkkaqhxx.jpeg"
+        },
+
+        {
+            "id":6,
+            "name":"Vivo X60 Pro",
+            "descrp":"Snapdragon 888 Color:Shimmer Blue",
+            "price":49990,
+            "color":"f73984",
+            "image":"https://rukminim1.flixcart.com/image/416/416/kmns7m80/mobile/i/p/g/x60-pro-v2046-vivo-original-imagfht6mkbtgfgh.jpeg?q=70"
+        },
+
+        {
+            "id":7,
+            "name":"Poco X3",
+            "descrp":"Snapdragon 732G Color:Cobalt Blue",
+            "price":14990,
+            "color":"icicic",
+            "image":"https://rukminim1.flixcart.com/image/416/416/kfbfr0w0/mobile/f/x/r/poco-x3-mzb07z2in-original-imafvt3hsqc2e4ru.jpeg"
+        },
+
+        {
+            "id":8,
+            "name":"Realme 8 Pro",
+            "descrp":"Snapdragon 720G Color:Yellow",
+            "price":16990,
+            "color":"7c95eb",
+            "image":"https://rukminim1.flixcart.com/image/416/416/knrsjgw0/mobile/b/2/u/8-pro-rmx3081-realme-original-imag2dcarz8dkgkn.jpeg?q=70"
+        },
+
+        {
+            "id":9,
+            "name":"Redmi Note 10 Pro",
+            "descrp":"Snapdragon 732G Color:Brown",
+            "price":15990,
+            "color":"33505a",
+            "image":"https://rukminim1.flixcart.com/image/416/416/kmgn0cw0/mobile/m/b/c/note-10-pro-1153-redmi-original-imagfdfxahgznzpt.jpeg?q=70"
+        },
+
+        {
+            "id":10,
+            "name":"Poco M2 Pro",
+            "descrp":"Snapdragon 720G Color:Green and Greener",
+            "price":12990,
+            "color":"33505a",
+            "image":"https://rukminim1.flixcart.com/image/416/416/kcauaa80/mobile/c/w/a/poco-m2-pro-mzb9625in-original-imaftga3xrptrbh5.jpeg"
+        }
+    ]
+}
