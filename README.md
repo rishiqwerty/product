@@ -1,6 +1,6 @@
 # Product Catalog
 
-A new Flutter project.
+Catalog is a shopping app built using Flutter
 
 ## Getting Started
 
