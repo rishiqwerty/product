@@ -1,4 +1,4 @@
-# corona
+# Product Catalog
 
 A new Flutter project.
 
