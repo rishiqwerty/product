@@ -5,6 +5,7 @@ Catalog is a shopping app built using Flutter
 ## Getting Started
 An E-commerce website for smartphone, app only includes the UI part.
 
+
 ## Here is a small glimpse through the app
 
 ### Login Page
